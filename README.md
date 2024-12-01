@@ -1,6 +1,6 @@
 # 📊 **Análisis de Telco Churn**  
 
-Bienvenido a este repositorio, donde exploramos y analizamos un dataset relacionado con la retención de clientes en la industria de telecomunicaciones. 🚀 Aquí encontrarás todo el proceso documentado, desde el análisis exploratorio hasta la creación de un modelo predictivo.  
+Bienvenido a este repositorio, donde exploramos y analizamos un dataset relacionado con la retención de clientes en la industria de telecomunicaciones. 🚀 Acá vas a encontrar todo el proceso documentado, desde el análisis exploratorio hasta la creación de un modelo predictivo.  
 
 ---
 
@@ -14,7 +14,7 @@ Realizamos un análisis detallado de los datos, visualizando patrones y detectan
 
 ### 2️⃣ **Pipeline de Machine Learning**  
 - Diseño de un pipeline automatizado para preprocesar datos y entrenar modelos.  
-- Implementación de transformaciones como estandarización, codificación, etc.
+- Implementación de transformaciones como estandarización, dummies, etc.
 - Entrenamiento de modelos de clasificación para predecir el churn.
 
 ### 3️⃣ **Conclusiones**  
@@ -45,5 +45,5 @@ Antes de empezar, asegurate de tener instalado:
 ```
 ### **📨 Contacto**
 
-Si tenés dudas o sugerencias, ¡no dudes en escribirnos!
+Si tenés dudas o sugerencias, ¡no dudes en escribir!
 ✉️ Email: ldedomenico@frba.utn.edu.ar
