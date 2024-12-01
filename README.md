@@ -9,8 +9,8 @@ Bienvenido a este repositorio, donde exploramos y analizamos un dataset relacion
 ### 1️⃣ Exploración de datos (EDA)  
 Realizamos un análisis detallado de los datos, visualizando patrones y detectando valores atípicos o inconsistencias. Incluye:
 - Análisis de variables categóricas y numéricas.
-- Gráficos interactivos para insights clave.  
-- Limpieza y preparación de los datos.
+- Gráficos para insights clave.  
+- Limpieza de los datos.
 
 ### 2️⃣ **Pipeline de Machine Learning**  
 - Diseño de un pipeline automatizado para preprocesar datos y entrenar modelos.  
@@ -39,7 +39,8 @@ Antes de empezar, asegurate de tener instalado:
 ```plaintext
 📂 Telco_Churn_Analysis
 ├── 📊 EDA/                # Análisis exploratorio (notebooks)
-├── 🤖 ML_Pipeline/        # Scripts para el pipeline
+├── 🤖 clusterai_luciano_de_domenico_francisco_lavaggi_eda.ipynb/        # Notebook con el EDA
+├── 🤖 clusterai_luciano_de_domenico_francisco_lavaggi_machine_learning.ipynb/        # Notebook con el modelo predictivo
 ├── 📄 Reporte/            # Informe técnico en PDF
 └── 📂 Datos/              # Dataset utilizado
 ```
