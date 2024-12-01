@@ -38,8 +38,8 @@ Antes de empezar, asegurate de tener instalado:
 
 ```plaintext
 📂 Telco_Churn_Analysis
-├── 📊 clusterai_luciano_de_domenico_francisco_lavaggi_eda.ipynb/              # Notebook con el EDA
-├── 🤖 clusterai_luciano_de_domenico_francisco_lavaggi_machine_learning.ipynb/ # Notebook con el modelo predictivo
+├── 📊 clusterai_luciano_de_domenico_eda.ipynb/              # Notebook con el EDA
+├── 🤖 clusterai_luciano_de_domenico_machine_learning.ipynb/ # Notebook con el modelo predictivo
 ├── 📄 clusterai_reporte_de_domenico.pdf/    # Informe técnico en PDF
 └── 📂 Datos/                                # Dataset utilizado
 ```
